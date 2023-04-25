@@ -1,0 +1,82 @@
+{
+  "pages": [
+    "pages/login/login",
+    "pages/my/my",
+    "pages/Ordinary/pt_my",
+    "pages/Ordinary/pt_index",
+    "pages/Ordinary/pt_main",
+    "pages/index/home",
+    "pages/login/register",
+    "pages/report/report",
+    "pages/report/list",
+    "pages/organization/index",
+    "pages/organization/list",
+    "pages/organization/details",
+    "pages/organization/team",
+    "pages/organization/transfer",
+    "pages/organization/listl",
+    "pages/organization/listf",
+    "pages/organization/listd",
+    "pages/news/list",
+    "pages/news/details",
+    "pages/my/dealt",
+    "pages/my/things",
+    "pages/my/body",
+    "pages/my/arrange",
+    "pages/my/dynamic",
+    "pages/Ordinary/dynamic",
+    "pages/my/state",
+    "pages/my/release",
+    "pages/activity/list",
+    "pages/activity/details",
+    "pages/activity/detailstabs",
+    "pages/activity/release",
+    "pages/my/clue",
+    "pages/my/exit",
+    "pages/my/initiate",
+    "pages/my/participation",
+    "pages/my/integral",
+    "pages/my/notice",
+    "pages/my/addgoods",
+    "pages/my/set",
+    "pages/login/modifyPhone",
+    "pages/login/modifyPass",
+    "pages/report/details",
+    "pages/my/details"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "uView",
+    "navigationBarBackgroundColor": "#1F61BE",
+    "backgroundColor": "#1F61BE"
+  },
+  "tabBar": {
+    "color": "#666",
+    "selectedColor": "#477FFF",
+    "backgroundColor": "#FFFFFF",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/index/home",
+        "iconPath": "static/img/home.png",
+        "selectedIconPath": "static/img/homel.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/activity/list",
+        "iconPath": "static/img/dt.png",
+        "selectedIconPath": "static/img/dtl.png",
+        "text": "活动"
+      },
+      {
+        "pagePath": "pages/my/my",
+        "iconPath": "static/img/my.png",
+        "selectedIconPath": "static/img/myl.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "permission": {},
+  "usingComponents": {}
+}

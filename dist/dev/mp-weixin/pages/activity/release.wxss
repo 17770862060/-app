@@ -1,0 +1,77 @@
+
+.register.data-v-11c8fa00 {
+	background-color: #F5F6FA;
+}
+.register .title.data-v-11c8fa00 {
+	width: 100%;
+	text-align: center;
+	font-size: 30rpx;
+	font-weight: bold;
+	color: #333333;
+	padding: 32rpx 0 25rpx 0;
+}
+.topbox.data-v-11c8fa00 {
+	width: 100%;
+	padding: 64rpx 95rpx 100rpx 95rpx;
+	position: relative;
+}
+.txt01.data-v-11c8fa00 {
+	position: absolute;
+	top: 68rpx;
+	left: 42rpx;
+	width: 120rpx;
+	text-align: center;
+	z-index: 999;
+}
+.nomor.data-v-11c8fa00 {
+	font-size: 24rpx;
+	color: #999;
+}
+.nogray.data-v-11c8fa00 {
+	font-size: 32rpx;
+	color: #999;
+}
+.actblue.data-v-11c8fa00 {
+	color: #296DCB;
+}
+.txt02.data-v-11c8fa00 {
+	left: 50%;
+	margin-left: -60rpx;
+}
+.txt03.data-v-11c8fa00 {
+	position: absolute;
+	top: 68rpx;
+	width: 120rpx;
+	text-align: center;
+	right: 42rpx;
+}
+.mybox.data-v-11c8fa00 {
+	text-align: center;
+}
+.mybox.data-v-11c8fa00 .u-upload {
+	justify-content: center;
+}
+.formBox.data-v-11c8fa00 {
+	padding: 0 30rpx 30rpx 30rpx;
+	background-color: #fff;
+}
+.mititle.data-v-11c8fa00 {
+	font-size: 30rpx;
+	font-weight: bold;
+	color: #333333;
+	height: 90rpx;
+	line-height: 90rpx;
+	margin: 0 -30rpx;
+	padding: 0 30rpx;
+	border-bottom: 1px solid #f1f1f1;
+}
+.smtitle.data-v-11c8fa00 {
+	width: 100%;
+	text-align: center;
+	font-size: 24rpx;
+	color: #B1B1B1;
+}
+.smtitle ._b.data-v-11c8fa00 {
+	color: #FF9D1D;
+}
+

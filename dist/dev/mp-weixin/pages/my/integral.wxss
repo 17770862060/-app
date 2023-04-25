@@ -1,0 +1,119 @@
+
+.content.data-v-69c4db46 {
+	width: 100vw;
+	height: 100vh;
+	background-color: #F5F6FA;
+}
+.addtxt.data-v-69c4db46 {
+	font-weight: bold;
+	position: absolute;
+	top: 20rpx;
+	right: 30rpx;
+}
+.btn.data-v-69c4db46 {
+	background-color: #296DCB;
+	color: #fff;
+	font-size: 24rpx;
+	margin-top: 40rpx;
+}
+.tabsList.data-v-69c4db46 {
+	background-color: #1F61BE;
+	min-height: 203rpx;
+	border-radius: 0 0 10rpx 10rpx;
+}
+.tabsList.data-v-69c4db46 .u-tabs {
+	background: transparent !important;
+}
+.topBox.data-v-69c4db46 {
+	position: relative;
+	font-size: 32rpx;
+	font-weight: bold;
+	color: #333333;
+}
+.topBox .ss.data-v-69c4db46 {
+	position: absolute;
+	right: -10rpx;
+	top: 8rpx;
+	width: 30rpx;
+	height: 30rpx;
+}
+.grid-text.data-v-69c4db46 {
+	font-size: 24rpx;
+	font-weight: bold;
+	color: #333333;
+	margin-top: 16rpx;
+}
+.list01.data-v-69c4db46 {
+	width: 100%;
+	background: #FFFFFF;
+	box-shadow: 0rpx 2rpx 8rpx 1rpx rgba(0, 0, 0, 0.06);
+	border-radius: 10rpx 10rpx 10rpx 10rpx;
+	margin-top: 22rpx;
+	padding: 20rpx 20rpx 20rpx 30rpx;
+	position: relative;
+}
+.blueline.data-v-69c4db46 {
+	position: absolute;
+	left: 0;
+	top: 26rpx;
+	width: 6rpx;
+	height: 28rpx;
+	background: #0062E9;
+}
+.list01 ._span.data-v-69c4db46,
+.list02 ._span.data-v-69c4db46 {
+	font-size: 28rpx;
+	font-weight: bold;
+	color: #333333;
+}
+.list01 ._p.data-v-69c4db46,
+.list02 ._p.data-v-69c4db46 {
+	margin-top: 10rpx;
+	font-size: 24rpx;
+	color: #999999;
+	width: 96%;
+	overflow: hidden;
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+	-webkit-line-clamp: 2;
+}
+.list02 ._b.data-v-69c4db46 {
+	font-size: 24rpx;
+	color: #296DCB;
+	font-weight: normal;
+}
+.tiptxt.data-v-69c4db46 {
+	position: absolute;
+	right: 32rpx;
+	top: 20rpx;
+}
+.listimg.data-v-69c4db46 {
+	width: 208rpx;
+	height: 126rpx;
+}
+.list02.data-v-69c4db46 {
+	width: 100%;
+	height: 231rpx;
+	background: #FFFFFF;
+	box-shadow: 0rpx 2rpx 8rpx 1rpx rgba(0, 0, 0, 0.06);
+	border-radius: 10rpx 10rpx 10rpx 10rpx;
+	margin-top: 22rpx;
+	padding: 17rpx 30rpx;
+	position: relative;
+	font-size: 24rpx;
+	font-weight: 400;
+	color: #333333;
+}
+.bz01.data-v-69c4db46 {
+	width: 52rpx;
+	vertical-align: middle;
+	display: inline-block;
+	margin-left: -10rpx;
+}
+.bz02.data-v-69c4db46 {
+	width: 28rpx;
+	margin-right: 6rpx;
+	vertical-align: middle;
+	display: inline-block;
+}
+

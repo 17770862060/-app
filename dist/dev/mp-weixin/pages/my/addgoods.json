@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "添加物品",
+  "usingComponents": {
+    "u-form": "/uview-ui/components/u-form/u-form",
+    "u-upload": "/uview-ui/components/u-upload/u-upload",
+    "u-form-item": "/uview-ui/components/u-form-item/u-form-item",
+    "u-input": "/uview-ui/components/u-input/u-input",
+    "u-button": "/uview-ui/components/u-button/u-button",
+    "u-picker": "/uview-ui/components/u-picker/u-picker",
+    "u-select": "/uview-ui/components/u-select/u-select",
+    "u-toast": "/uview-ui/components/u-toast/u-toast"
+  }
+}

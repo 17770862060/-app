@@ -1,0 +1,67 @@
+
+.register.data-v-e631a632 {
+	background-color: #F5F6FA;
+	width: 100vw;
+	height: 100vh;
+}
+.mybox.data-v-e631a632 {
+	text-align: center;
+	padding: 50rpx 0;
+}
+.formBox.data-v-e631a632 {}
+.list02.data-v-e631a632 {
+	width: 100%;
+	height: 500rpx;
+	background: #FFFFFF;
+	font-size: 24rpx;
+	font-weight: 400;
+	color: #333333;
+	padding: 26rpx 30rpx 28rpx 30rpx;
+	margin-bottom: 20rpx;
+	box-shadow: 0px 2px 8px 1px rgba(0, 0, 0, 0.06);
+}
+.list02 .titlebox.data-v-e631a632 {
+	font-size: 28rpx;
+	font-weight: bold;
+	color: #333333;
+	width: 98%;
+	/*宽度记得设置，这样超出宽度的内容才会被省略*/
+	overflow: hidden;
+	/*文本超出隐藏*/
+	white-space: nowrap;
+	text-overflow: ellipsis;
+}
+.list02 .pbox.data-v-e631a632 {
+	margin-top: 8rpx;
+	font-size: 24rpx;
+	color: #999999;
+	width: 98%;
+	/*宽度记得设置，这样超出宽度的内容才会被省略*/
+	overflow: hidden;
+	/*文本超出隐藏*/
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	/*文本超出省略*/
+}
+.list02 .pbox01.data-v-e631a632 {
+	margin-top: 8rpx;
+	font-size: 24rpx;
+	color: #999999;
+	width: 98%;
+	overflow: hidden;
+	/*文本超出隐藏*/
+	display: -webkit-box;
+	/*盒子模型微弹性伸缩模型*/
+	-webkit-box-orient: vertical;
+	/*伸缩盒子的子元素垂直排列*/
+	-webkit-line-clamp: 2;
+}
+.list02 .gray.data-v-e631a632 {
+	color: #333;
+}
+.list02 ._b.data-v-e631a632 {
+	font-size: 24rpx;
+	color: #296DCB;
+	font-weight: normal;
+}
+

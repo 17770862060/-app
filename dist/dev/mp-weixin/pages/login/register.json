@@ -1,0 +1,18 @@
+{
+  "navigationBarTitleText": "志愿者注册",
+  "usingComponents": {
+    "u-line-progress": "/uview-ui/components/u-line-progress/u-line-progress",
+    "u-form": "/uview-ui/components/u-form/u-form",
+    "u-upload": "/uview-ui/components/u-upload/u-upload",
+    "u-form-item": "/uview-ui/components/u-form-item/u-form-item",
+    "u-input": "/uview-ui/components/u-input/u-input",
+    "u-radio-group": "/uview-ui/components/u-radio-group/u-radio-group",
+    "u-radio": "/uview-ui/components/u-radio/u-radio",
+    "u-grid": "/uview-ui/components/u-grid/u-grid",
+    "u-grid-item": "/uview-ui/components/u-grid-item/u-grid-item",
+    "u-button": "/uview-ui/components/u-button/u-button",
+    "u-toast": "/uview-ui/components/u-toast/u-toast",
+    "u-picker": "/uview-ui/components/u-picker/u-picker",
+    "u-select": "/uview-ui/components/u-select/u-select"
+  }
+}

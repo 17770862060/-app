@@ -1,0 +1,73 @@
+
+.register.data-v-0be17cc6 {
+		background-color: #F5F6FA;
+		width: 100vw;
+		height: 100vh;
+}
+.register.data-v-0be17cc6 .u-btn {
+		border: none;
+		border-radius: 0;
+		position: initial;
+}
+.header.data-v-0be17cc6 {
+		margin-top: 42rpx;
+		margin-bottom: -60rpx;
+}
+.header ._span.data-v-0be17cc6 {
+		font-size: 28rpx;
+		font-weight: bold;
+		color: #333333;
+}
+.header ._p.data-v-0be17cc6 {
+		margin-top: 12rpx;
+		font-size: 24rpx;
+		color: #999999;
+}
+.mybox.data-v-0be17cc6 {
+		height: 342rpx;
+		background: url(/static/img/bar.png) no-repeat center center;
+		background-size: cover;
+		box-sizing: border-box;
+		margin: 0 -30rpx;
+		padding-top: 105rpx;
+		color: #fff;
+}
+.mybox ._span.data-v-0be17cc6 {
+		font-size: 24rpx;
+}
+.mybox ._p.data-v-0be17cc6 {
+		font-size: 28rpx;
+		font-weight: bold;
+		margin-top: 10rpx;
+}
+.formBox.data-v-0be17cc6 {
+		padding: 0 30rpx 30rpx 30rpx;
+		background-color: #fff;
+}
+.mititle.data-v-0be17cc6 {
+		background-color: #1F61BE;
+		text-align: center;
+		font-size: 32rpx;
+		font-weight: bold;
+		color: #fff;
+		height: 90rpx;
+		line-height: 90rpx;
+		margin: 0 -30rpx;
+		padding: 0 30rpx;
+		position: relative;
+}
+.tsbox.data-v-0be17cc6 {
+		margin-top: -75rpx;
+}
+.tsbox.data-v-0be17cc6 .u-cell-item-box{
+		background-color: transparent;
+}
+.tsbox.data-v-0be17cc6 .u-cell_title {
+		font-size: 24rpx;
+		color: #333;
+}
+.tsbox.data-v-0be17cc6 .u-cell__value {
+		font-size: 24rpx;
+		color: #4490FB;
+}
+

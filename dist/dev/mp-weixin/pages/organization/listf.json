@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "志愿者协会分队",
+  "usingComponents": {
+    "u-row": "/uview-ui/components/u-row/u-row",
+    "u-col": "/uview-ui/components/u-col/u-col",
+    "u-search": "/uview-ui/components/u-search/u-search",
+    "u-avatar": "/uview-ui/components/u-avatar/u-avatar"
+  }
+}
