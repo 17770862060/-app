@@ -1,8 +1,0 @@
-{
-  "navigationStyle": "custom",
-  "usingComponents": {
-    "ptindex": "/pages/Ordinary/pt_index",
-    "ptmy": "/pages/Ordinary/pt_my",
-    "hans-tabber": "/pages/Ordinary/hans-tabbar"
-  }
-}
